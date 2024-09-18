@@ -20,7 +20,7 @@ server.post("/", function (req, res) {
 		service: "yahoo",
 		auth: {
 			user: "aameensiddiqui@yahoo.com",
-			pass: "agxrzqpqgyjvszlz", //app passwod of email goes here
+			pass: "", //app passwod of email goes here
 		},
 	});
 	var emailOptions = {
